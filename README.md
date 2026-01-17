@@ -1,5 +1,4 @@
 🔦 Управлялка для светодиодиков (Очень Серьёзная Программа™)
-https://intechirs.ru/original-19dm.jpg
 <img width="783" height="525" alt="image" src="https://github.com/user-attachments/assets/5ba7cfb8-0a1a-4825-afa2-c6c49cddfc23" />
 
 🤔 На чём это написано?
@@ -48,7 +47,7 @@ text
 💻 Как поставить Visual Studio Code?
 Для Windows:
 Идём на сайт code.visualstudio.com
-
+<img width="1008" height="501" alt="image" src="https://github.com/user-attachments/assets/9e7367b3-205b-4a22-8d93-2ab61a2e5170" />
 Качаем зелёную кнопку (она там одна, не ошибёшься)
 
 Запускаем установщик
